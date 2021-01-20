@@ -19,3 +19,7 @@ MonoBehaviour:
   - SettingsMenu
   - QuitMenu
   - Presents
+  - Mail
+  - PlayerInfo
+  - QuestsAchievments
+  - Shop

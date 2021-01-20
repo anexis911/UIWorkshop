@@ -26,3 +26,7 @@ MonoBehaviour:
   - Market
   - GameStart
   - Share
+  - ReadMail
+  - DeleteMail
+  - Purchase
+  - RefreshShop
